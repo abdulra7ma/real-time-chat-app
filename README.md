@@ -55,9 +55,9 @@
           - ![Alt text](docs/imgs/chat_group_response.png "Chat Group Response")
 4. Connect to websocket client (recommended Postman)
    - enter your websocket uri
-     - [Alt text](docs/imgs/postman_connect.png "Postman connect")
+     - ![Alt text](docs/imgs/postman_connect.png "Postman connect")
    - send your first action request  
-     - [Alt text](docs/imgs/postman_send.png "Postman connect")
+     - ![Alt text](docs/imgs/postman_send.png "Postman connect")
 5. start chat
    - Send a message
       -  ``` {"action": "send_message", "message": "<your-msg>"} ```
